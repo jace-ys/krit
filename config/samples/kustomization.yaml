@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- krit_v1alpha1_consoletemplate.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
